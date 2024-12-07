@@ -17,15 +17,9 @@ module.exports = {
           ],
       },
       backgroundImage: {
-<<<<<<< HEAD
         'desktop': "url('../src/images/bg-desktop.svg')",
         'mobile': "url('../src/images/bg-mobile.svg')",
         'mockups': "url('../src/images/illustration-mockups.svg')",
-=======
-        'desktop': "url('./images/bg-desktop.svg')",
-        'mobile': "url('./images/bg-mobile.svg')",
-        'mockups': "url('./images/illustration-mockups.svg')",
->>>>>>> cb91297d469dfcb73fd17c5166d31aa3c103b369
       },
       boxShadow: {
         'half': '0 15px 20px -10px rgba(0, 0, 0, 0.3)',
