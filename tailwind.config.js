@@ -17,9 +17,9 @@ module.exports = {
           ],
       },
       backgroundImage: {
-        'desktop': "url('./src/images/bg-desktop.svg')",
-        'mobile': "url('./src/images/bg-mobile.svg')",
-        'mockups': "url('./src/images/illustration-mockups.svg')",
+        'desktop': "url('src/images/bg-desktop.svg')",
+        'mobile': "url('src/images/bg-mobile.svg')",
+        'mockups': "url('src/images/illustration-mockups.svg')",
       },
       boxShadow: {
         'half': '0 15px 20px -10px rgba(0, 0, 0, 0.3)',
