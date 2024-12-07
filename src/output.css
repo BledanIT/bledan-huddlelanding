@@ -799,6 +799,10 @@ video {
     gap: 5%;
   }
 
+  .lg\:bg-desktop {
+    background-image: url('/src/images/bg-desktop.svg');
+  }
+
   .lg\:p-\[1\%\] {
     padding: 1%;
   }
