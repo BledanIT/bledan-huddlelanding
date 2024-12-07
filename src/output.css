@@ -649,7 +649,7 @@ video {
 }
 
 .bg-mobile {
-  background-image: url('/src/images/bg-mobile.svg');
+  background-image: url('../src/images/bg-mobile.svg');
 }
 
 .bg-contain {
@@ -800,7 +800,7 @@ video {
   }
 
   .lg\:bg-desktop {
-    background-image: url('/src/images/bg-desktop.svg');
+    background-image: url('../src/images/bg-desktop.svg');
   }
 
   .lg\:p-\[1\%\] {
